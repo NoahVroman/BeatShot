@@ -1,0 +1,61 @@
+.panel {
+    background-color: rgba(0, 0, 0, 0.59);
+    align-items: center;
+    align-self: auto;
+    align-content: auto;
+    justify-content: flex-start;
+}
+
+.unity-button {
+    flex-grow: 1;
+    width: 96%;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-left-width: 7px;
+    border-right-width: 7px;
+    border-top-width: 7px;
+    border-bottom-width: 7px;
+    border-left-color: rgb(65, 65, 65);
+    border-right-color: rgb(65, 65, 65);
+    border-top-color: rgb(65, 65, 65);
+    border-bottom-color: rgb(65, 65, 65);
+    background-color: rgb(82, 82, 82);
+    color: rgb(236, 98, 95);
+    margin-bottom: 5px;
+    font-size: 25px;
+    -unity-font-style: bold;
+    -unity-font-definition: url("project://database/Assets/AimtrainerAssets/Fonts/Gameplay.ttf?fileID=12800000&guid=6436194af88c7d74b95d697b8c73d58d&type=3#Gameplay");
+    margin-top: 5px;
+}
+
+.menu {
+    background-color: rgba(0, 0, 0, 0);
+    align-items: auto;
+    background-size: 100% 100%;
+    width: auto;
+    left: 8%;
+    max-width: 200px;
+    align-content: auto;
+    top: 30%;
+    display: flex;
+    visibility: visible;
+    -unity-text-align: upper-left;
+    max-height: none;
+    align-self: auto;
+    justify-content: space-evenly;
+    flex-grow: 0;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}

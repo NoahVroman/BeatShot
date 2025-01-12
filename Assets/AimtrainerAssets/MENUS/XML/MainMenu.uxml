@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/AimtrainerAssets/MENUS/USS/main-menu.uss?fileID=7433441132597879392&amp;guid=0c6dca5c4e44e3444901759e05223af2&amp;type=3#main-menu" />
+    <ui:VisualElement name="Panel" class="panel" style="flex-grow: 1;">
+        <ui:VisualElement name="Container" class="menu" style="flex-grow: 1; align-content: auto; align-self: center; align-items: center; background-color: rgb(49, 49, 49); max-height: 543px; height: auto; width: 448px; visibility: visible; left: auto; justify-content: space-between; top: auto; flex-direction: column; position: relative; margin-top: auto; margin-bottom: auto; margin-left: auto; margin-right: auto; max-width: 678px;">
+            <ui:VisualElement style="flex-grow: 0; background-image: url(&quot;project://database/Assets/AimtrainerAssets/MENUS/Images/virus.png?fileID=2800000&amp;guid=02efac2f9564af1498ed6d6c84fd9551&amp;type=3#virus&quot;); -unity-background-scale-mode: stretch-to-fill; background-position-y: center 0; background-position-x: center 0; min-width: 100%; min-height: 100px; align-items: auto; justify-content: flex-start; align-self: auto; align-content: auto; bottom: 0; flex-basis: auto; background-size: cover;" />
+            <ui:Button text="Button" />
+            <ui:Button text="Button" />
+            <ui:Button text="Button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
